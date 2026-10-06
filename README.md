@@ -50,3 +50,7 @@ task4-version-controlled-devops-project/
 │   └── app.sh
 └── docs/
     └── git-workflow.md
+
+## Feature
+
+Git workflow documentation has been added as part of Task 4.
